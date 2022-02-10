@@ -1,5 +1,4 @@
-# NLP-Disney-movies
-Sentiment analysis and Topic Modeling of Disney movie scripts
+# Sentiment analysis and Topic Modeling of Disney movie scripts
 
 Problem Statement:
 Analyze Disney movie transcripts and chart the change in sentiment of each movie. Analyse for common topics across the movies (Topic Modeling). 
