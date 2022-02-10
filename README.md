@@ -8,7 +8,17 @@ Renowned Author Kurt Vonnegut was a Master's student in Anthropology at Universi
 
 The shape Vonnegut was referring to is the rise and fall of sentiment from start to finish for each story. Now, we have the tools to plot the sentiment of text. 
 
-The work flow :
+Project work flow :
 1) Create the corpus
 2) Perform Sentiment analysis
 3) Perform Topic Modeling
+
+Gist of analysis performed:
+• Compare polarity and subjectivity (TextBlob)
+• Investigate relation between polarity and BoxOffice and IMDB rating
+• Create Emotional Arc of movies (TextBlob.polarity)
+• Create Document-Term matrix (CountVectorizer)
+• Word Count Analysis
+• Clean text (stop words)
+• Topic Modeling with Latent Dirichlet Allocation (LDA)
+• Tokenize Nouns and Adjectives (NLTK)
